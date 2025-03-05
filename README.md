@@ -1,1 +1,1 @@
-# MSD
+print("MSD")
